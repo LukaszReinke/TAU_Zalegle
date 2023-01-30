@@ -1,0 +1,8 @@
+C:\Users\serni\Desktop\New folder\TAU_Zalegle\Zad1\SimplyApp\SimplyApp\bin\Debug\SimplyApp.exe.config
+C:\Users\serni\Desktop\New folder\TAU_Zalegle\Zad1\SimplyApp\SimplyApp\bin\Debug\SimplyApp.exe
+C:\Users\serni\Desktop\New folder\TAU_Zalegle\Zad1\SimplyApp\SimplyApp\bin\Debug\SimplyApp.pdb
+C:\Users\serni\Desktop\New folder\TAU_Zalegle\Zad1\SimplyApp\SimplyApp\obj\Debug\SimplyApp.csproj.AssemblyReference.cache
+C:\Users\serni\Desktop\New folder\TAU_Zalegle\Zad1\SimplyApp\SimplyApp\obj\Debug\SimplyApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\serni\Desktop\New folder\TAU_Zalegle\Zad1\SimplyApp\SimplyApp\obj\Debug\SimplyApp.csproj.CoreCompileInputs.cache
+C:\Users\serni\Desktop\New folder\TAU_Zalegle\Zad1\SimplyApp\SimplyApp\obj\Debug\SimplyApp.exe
+C:\Users\serni\Desktop\New folder\TAU_Zalegle\Zad1\SimplyApp\SimplyApp\obj\Debug\SimplyApp.pdb
