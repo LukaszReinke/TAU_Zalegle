@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAU Web Api", "TAU Web Api\TAU Web Api.csproj", "{3AB8BFC5-EE2D-4273-931F-9DA56839FFEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTauZad2", "TestTauZad2\TestTauZad2.csproj", "{7797787B-2107-4EE2-A73B-7E64FFDE1331}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AB8BFC5-EE2D-4273-931F-9DA56839FFEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB8BFC5-EE2D-4273-931F-9DA56839FFEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB8BFC5-EE2D-4273-931F-9DA56839FFEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB8BFC5-EE2D-4273-931F-9DA56839FFEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7797787B-2107-4EE2-A73B-7E64FFDE1331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7797787B-2107-4EE2-A73B-7E64FFDE1331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7797787B-2107-4EE2-A73B-7E64FFDE1331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7797787B-2107-4EE2-A73B-7E64FFDE1331}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {377E1090-54AB-4613-BA48-5FB2C749B64F}
+	EndGlobalSection
+EndGlobal
