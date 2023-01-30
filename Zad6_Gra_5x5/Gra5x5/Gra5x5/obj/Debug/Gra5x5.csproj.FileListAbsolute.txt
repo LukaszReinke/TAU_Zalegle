@@ -1,0 +1,8 @@
+C:\Users\serni\source\repos\Gra5x5\Gra5x5\obj\Debug\Gra5x5.csproj.AssemblyReference.cache
+C:\Users\serni\source\repos\Gra5x5\Gra5x5\obj\Debug\Gra5x5.csproj.SuggestedBindingRedirects.cache
+C:\Users\serni\source\repos\Gra5x5\Gra5x5\obj\Debug\Gra5x5.csproj.CoreCompileInputs.cache
+C:\Users\serni\source\repos\Gra5x5\Gra5x5\bin\Debug\Gra5x5.exe.config
+C:\Users\serni\source\repos\Gra5x5\Gra5x5\bin\Debug\Gra5x5.exe
+C:\Users\serni\source\repos\Gra5x5\Gra5x5\bin\Debug\Gra5x5.pdb
+C:\Users\serni\source\repos\Gra5x5\Gra5x5\obj\Debug\Gra5x5.exe
+C:\Users\serni\source\repos\Gra5x5\Gra5x5\obj\Debug\Gra5x5.pdb
